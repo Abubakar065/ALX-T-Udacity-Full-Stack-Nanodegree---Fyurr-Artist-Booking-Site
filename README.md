@@ -1,6 +1,6 @@
 # ALX-T-Udacity-Full-Stack-Nanodegree---Fyurr-Artist-Booking-Site
 
-Introduction/Background
+Introduction/Background <b>
 Fyyur is a musical venue and artist booking site that facilitates the discovery and bookings of shows between local performing artists and venues. This site lets you list new artists and venues, discover them, and list shows with artists as a venue owner.
 
 The app is able to do the following operations:
