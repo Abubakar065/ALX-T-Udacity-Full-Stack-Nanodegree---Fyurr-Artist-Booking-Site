@@ -22,26 +22,26 @@ Overall:
 3) he web frontend is located in templates/, which builds static assets deployed to the web server at static/.
 4) Web forms for creating data are located in form.py
 
-Development Server Setup
+Development Server Setup <br>
 First of all, install Flask.
 
 $ cd ~
 $ sudo pip3 install Flask
-To start and run the local development server,
 
+To start and run the local development server, <br>
 Initialize and activate a virtualenv:
 $ cd PROJECT DIRECTORY PATH/
 $ virtualenv --no-site-packages env
 $ source env/bin/activate
 
-Install the dependencies:
+Install the dependencies:<br>
 $ pip install -r requirements.txt
 
-Run the development server:
+Run the development server:<br>
 $ export FLASK_APP=myapp
 $ export FLASK_ENV=development # enables debug mode
 $ python3 app.py
 
-Navigate to Home page http://localhost:5000
+Navigate to Home page http://localhost:5000<br>
 
 Regards>>>Abubakar Lawan
